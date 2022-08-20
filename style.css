@@ -9,10 +9,10 @@ html, body {
 body {
     font-family: sans-serif;
     font-size: 16px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    display: flex; /* flexing body's child elements */
+    flex-direction: column; /* flexing in the vertical axis */
+    align-items: center; /* and of course center them horizontally */
+    justify-content: center; /*  and vertically */
     background-color: aliceblue;
 }
 .counter_container {
