@@ -23,3 +23,4 @@ Learn JavaScript Basics by Building a Counter Application
 - VS Code
 - modern web browser
 - Live Server (VS Code extension, cmd + L + O)
+- console (Open inspector in web browser & go to Console tab)
