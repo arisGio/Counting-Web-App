@@ -8,3 +8,4 @@
   JavaScript
   VS Code
   modern web browser
+  Live Server (VS Code extension)
