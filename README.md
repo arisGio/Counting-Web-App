@@ -1,4 +1,4 @@
-# CounterApp
+# <a href="https://6307ec935b8c281ab00638aa--countlikeatoddler.netlify.app/">CounterApp</a> 
 
 Learn JavaScript Basics by Building a Counter Application
 
@@ -19,8 +19,17 @@ Learn JavaScript Basics by Building a Counter Application
 
 # Tech stack & tools
 
-- JavaScript
+- JavaScript <i class="fab fa-js"></i>
 - VS Code
 - modern web browser
 - Live Server (VS Code extension, cmd + L + O)
 - console (Open inspector in web browser & go to Console tab)
+
+# Deployment
+
+  netlify.com
+  <ul>
+    <li>free of charge</li>
+    <li>extremely fast</li>
+    <li>extremely easy</li>
+  </ul>
