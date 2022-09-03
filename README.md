@@ -1,4 +1,4 @@
-# <a href="https://6307ec935b8c281ab00638aa--countlikeatoddler.netlify.app/">CounterApp</a> 
+# <a href="https://6307ec935b8c281ab00638aa--countlikeatoddler.netlify.app/" target="_blank">CounterApp</a> 
 
 Learn JavaScript Basics by Building a Counter Application
 
